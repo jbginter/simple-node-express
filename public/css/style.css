@@ -1,0 +1,12 @@
+body {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-family: arial, helvetica;
+}
+.module {
+	display: block;
+	margin: 2% 0;
+}
